@@ -1,0 +1,1 @@
+Common code for google search trend analysis, including getting search trend by time by dma, transferring wide-format data to long-format
